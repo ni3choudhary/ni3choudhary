@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey there 👋, I'm Nitin!
 
-<!--
-**nitin80855/nitin80855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm currently pursuing **PG Diploma in Artificial Intelligence**  from **CDAC ACTS, Pune**.
+- 🌱 I'm also learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
+- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 📌 Scroll down to see my **Pinned Repositories**.
 
-Here are some ideas to get you started:
+```python
+def nitin():
+  skills_with_proficiency = {'Python': 'Advance', 'R': 'Advance','SQL': 'Intermediate', 'DSA': 'Beginner', 'HTML & CSS': 'Beginner'}
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras','Tensorflow', 'flask', 'tableau','BeautifulSoup']
+  cloud_architecture = ['heroku', 'aws sagemaker']
+  return ∞
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect me on:
+- LinkedIn: https://www.linkedin.com/in/nitin-choudhary-334304150
+- Kaggle: https://www.kaggle.com/cnitin012
+
+_**Note:** Please **do not spam** on the above mentioned profiles._
