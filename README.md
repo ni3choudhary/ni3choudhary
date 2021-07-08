@@ -15,6 +15,6 @@ def nitin():
 
 ## Connect me on:
 - LinkedIn: https://www.linkedin.com/in/nitin-choudhary-334304150
-- Kaggle: https://www.kaggle.com/cnitin012
+- Kaggle: https://www.kaggle.com/nitinchoudhary012
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
