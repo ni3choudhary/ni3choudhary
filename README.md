@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Nitin!
 
-- 🎓 I'm currently pursuing **PG Diploma in Artificial Intelligence**  from **CDAC ACTS, Pune**.
+- 🎓 I'm currently working as a **Data Science Freelancer **  at **Fiverr**.
 - 🌱 I'm also learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/).
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 📌 Scroll down to see my **Pinned Repositories**.
