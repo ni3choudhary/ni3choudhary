@@ -7,7 +7,7 @@
 
 ```python
 def nitin():
-  skills_with_proficiency = {'Python': 'Advance', 'R': 'Advance','SQL': 'Intermediate', 'Spark': 'Intermediate','DSA': 'Beginner', 'HTML & CSS': 'Beginner'}
+  skills_with_proficiency = {'Python': 'Advance', 'R': 'Advance','SQL': 'Intermediate', 'Spark': 'Intermediate','DSA': 'Intermediate', 'HTML & CSS': 'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'spacy','OpenCV', 'matplotlib', 'seaborn', 'keras','Tensorflow', 'flask', 'Django','BeautifulSoup']
   cloud_architecture = ['heroku', 'aws sagemaker', 'Azure', 'GCP']
   return ∞
