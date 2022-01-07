@@ -13,6 +13,9 @@ def nitin():
   return ∞
 ```
 
+## Resume:
+- Link: https://drive.google.com/file/d/13yYKlZcGGh1efOXI6ZIU_nC3yapR2KJj/view?usp=sharing
+
 ## Connect me on:
 - LinkedIn: https://www.linkedin.com/in/nitin-choudhary-334304150
 - Kaggle: https://www.kaggle.com/nitinchoudhary012
