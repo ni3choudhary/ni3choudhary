@@ -16,6 +16,8 @@ def nitin():
 ## Resume:
 - Link: https://drive.google.com/file/d/13yYKlZcGGh1efOXI6ZIU_nC3yapR2KJj/view?usp=sharing
 
+## Fiverr Profile: 
+https://www.fiverr.com/share/xlmqlX
 ## Connect me on:
 - LinkedIn: https://www.linkedin.com/in/nitin-choudhary-334304150
 - Kaggle: https://www.kaggle.com/nitinchoudhary012
