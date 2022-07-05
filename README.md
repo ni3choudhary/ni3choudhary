@@ -14,16 +14,20 @@ def nitin():
 ```
 
 ## Resume:
-- Link: https://drive.google.com/file/d/13yYKlZcGGh1efOXI6ZIU_nC3yapR2KJj/view?usp=sharing
+<p align="left">
+<a href="https://drive.google.com/file/d/13yYKlZcGGh1efOXI6ZIU_nC3yapR2KJj/view?usp=sharing" target="_blank"><img width="40" height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/resume.png"></a>&nbsp;&nbsp;
+</p>
 
 ## Fiverr Profile: 
-https://www.fiverr.com/share/xlmqlX
+<p align="left">
+<a href="https://www.fiverr.com/share/xlmqlX" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/fiverr.jpg"></a>&nbsp;&nbsp;
+</p>
 ## Connect me on🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nitin-choudhary-334304150/"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/nitinchoudhary012"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/kaggle.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/iamNi3Choudhary"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nitin-choudhary-334304150/" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/nitinchoudhary012" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/kaggle.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/iamNi3Choudhary" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/twitter.png"></a>&nbsp;&nbsp;
 </p>
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
