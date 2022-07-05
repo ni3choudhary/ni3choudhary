@@ -19,13 +19,11 @@ def nitin():
 ## Fiverr Profile: 
 https://www.fiverr.com/share/xlmqlX
 ## Connect me on:
-- LinkedIn: https://www.linkedin.com/in/nitin-choudhary-334304150
-- Kaggle: https://www.kaggle.com/nitinchoudhary012
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-NitinChoudhary-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/nitin-choudhary-334304150)](https://www.linkedin.com/in/nitin-choudhary-334304150)&nbsp;&nbsp;&nbsp;
-[![Twitter Badge](http://img.shields.io/badge/-NitinChoudhary?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamNi3Choudhary?t=0pb5zrWOVzCzvVYou4GYbA&s=03)](https://twitter.com/iamNi3Choudhary?t=0pb5zrWOVzCzvVYou4GYbA&s=03)&nbsp;&nbsp;&nbsp; -->
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]([https://twitter.com/abhinavd26](https://twitter.com/iamNi3Choudhary?t=0pb5zrWOVzCzvVYou4GYbA&s=03)) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/abhinavdubey26/](https://www.linkedin.com/in/nitin-choudhary-334304150))
+<p align="center">
+<a href="https://www.linkedin.com/in/nitin-choudhary-334304150/"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/tree/main/Assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/nitinchoudhary012"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/tree/main/Assets/kaggle.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/iamNi3Choudhary"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/tree/main/Assets/twitter.png"></a>&nbsp;&nbsp;
+</p>
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
