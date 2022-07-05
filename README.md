@@ -25,4 +25,7 @@ https://www.fiverr.com/share/xlmqlX
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-NitinChoudhary-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/nitin-choudhary-334304150)](https://www.linkedin.com/in/nitin-choudhary-334304150)&nbsp;&nbsp;&nbsp;
 [![Twitter Badge](http://img.shields.io/badge/-NitinChoudhary?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamNi3Choudhary?t=0pb5zrWOVzCzvVYou4GYbA&s=03)](https://twitter.com/iamNi3Choudhary?t=0pb5zrWOVzCzvVYou4GYbA&s=03)&nbsp;&nbsp;&nbsp; -->
 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]([https://twitter.com/abhinavd26](https://twitter.com/iamNi3Choudhary?t=0pb5zrWOVzCzvVYou4GYbA&s=03)) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/abhinavdubey26/](https://www.linkedin.com/in/nitin-choudhary-334304150))
+
 _**Note:** Please **do not spam** on the above mentioned profiles._
