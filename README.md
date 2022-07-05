@@ -29,7 +29,7 @@ def nitin():
 
 ## Connect me on:
 
-<p align="left">
+<p &nbsp; align="left">
 <a href="https://www.linkedin.com/in/nitin-choudhary-334304150/" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/nitinchoudhary012" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/kaggle.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/iamNi3Choudhary" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/twitter.png"></a>&nbsp;&nbsp;
