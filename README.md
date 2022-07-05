@@ -1,10 +1,10 @@
 ## Hey there 👋, I'm Nitin!
-<div align="left">
+
 - 🎓 I'm currently working as a **Data Science Freelancer**  at **[Fiverr](https://www.fiverr.com/share/xlmqlX)**.
 - 🌱 I'm also learning from [Coursera](https://www.coursera.org/) and [Kaggle](https://www.kaggle.com/nitinchoudhary012).
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 📌 Scroll down to see my **Pinned Repositories**.
-</div>
+
 <img src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/programmer.gif" width="380px" align="right">
 
 ```python
