@@ -36,4 +36,4 @@ def nitin():
 
 <p>&nbsp;&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni3choudhary&show_icons=true&theme=dark&locale=en&layout=compact" alt="ni3choudhary" />&nbsp;&nbsp;</p>
 
-<p>&nbsp; **Note:** Please **do not spam** on the above mentioned profiles._</p>
+_**Note:** Please **do not spam** on the above mentioned profiles._
