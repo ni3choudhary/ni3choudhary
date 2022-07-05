@@ -5,7 +5,7 @@
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 📌 Scroll down to see my **Pinned Repositories**.
 
-<img src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/programmer.gif" width="200px" height="200px" align="right">
+<img src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/programmer.gif" width="170px" height="170px" align="right">
 
 ```python
 def nitin():
