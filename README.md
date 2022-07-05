@@ -22,4 +22,7 @@ https://www.fiverr.com/share/xlmqlX
 - LinkedIn: https://www.linkedin.com/in/nitin-choudhary-334304150
 - Kaggle: https://www.kaggle.com/nitinchoudhary012
 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-NitinChoudhary-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/nitin-choudhary-334304150)](https://www.linkedin.com/in/nitin-choudhary-334304150)&nbsp;&nbsp;&nbsp;
+[![Twitter Badge](http://img.shields.io/badge/-NitinChoudhary?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamNi3Choudhary?t=0pb5zrWOVzCzvVYou4GYbA&s=03)](https://twitter.com/iamNi3Choudhary?t=0pb5zrWOVzCzvVYou4GYbA&s=03)&nbsp;&nbsp;&nbsp; -->
+
 _**Note:** Please **do not spam** on the above mentioned profiles._
