@@ -15,8 +15,6 @@ def nitin():
   return ∞
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni3choudhary&show_icons=true&theme=dark&locale=en&layout=compact" alt="ni3choudhary" />&nbsp;&nbsp;</p>&
-
 ## Resume:
 <p align="left">
 <a href="https://drive.google.com/file/d/13yYKlZcGGh1efOXI6ZIU_nC3yapR2KJj/view?usp=sharing" target="_blank"><img width="40" height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/resume.png"></a>&nbsp;&nbsp;
@@ -34,5 +32,8 @@ def nitin():
 <a href="https://www.kaggle.com/nitinchoudhary012" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/kaggle.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/iamNi3Choudhary" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/twitter.png"></a>&nbsp;&nbsp;
 </p>
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni3choudhary&show_icons=true&theme=dark&locale=en&layout=compact" alt="ni3choudhary" />&nbsp;&nbsp;</p>
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
