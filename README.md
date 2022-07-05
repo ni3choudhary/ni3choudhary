@@ -22,8 +22,7 @@ def nitin():
 <p align="left">
 <a href="https://www.fiverr.com/share/xlmqlX" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/fiverr.jpg"></a>&nbsp;&nbsp;
 </p>
-## Connect me on🤝
-
+## Connect me on 🤝
 <p align="left">
 <a href="https://www.linkedin.com/in/nitin-choudhary-334304150/" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/nitinchoudhary012" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/kaggle.png"></a>&nbsp;&nbsp;
