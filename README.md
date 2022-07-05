@@ -18,12 +18,12 @@ def nitin():
 
 ## Fiverr Profile: 
 https://www.fiverr.com/share/xlmqlX
-## Connect me on:
+## Connect me on🤝
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nitin-choudhary-334304150/"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/tree/main/Assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/nitinchoudhary012"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/tree/main/Assets/kaggle.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/iamNi3Choudhary"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/tree/main/Assets/twitter.png"></a>&nbsp;&nbsp;
+<p align="left">
+<a href="https://www.linkedin.com/in/nitin-choudhary-334304150/"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/nitinchoudhary012"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/kaggle.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/iamNi3Choudhary"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/twitter.png"></a>&nbsp;&nbsp;
 </p>
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
