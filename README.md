@@ -25,6 +25,8 @@ def nitin():
 <a href="https://www.fiverr.com/share/xlmqlX" target="_blank"><img height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/fiverr.jpg"></a>&nbsp;&nbsp;
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni3choudhary&show_icons=true&theme=dark&locale=en&layout=compact" alt="ni3choudhary" />&nbsp;&nbsp;</p>
+
 ## Connect me on:
 
 <p align="left">
