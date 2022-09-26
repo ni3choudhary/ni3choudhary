@@ -17,7 +17,7 @@ def nitin():
 
 ## Resume:
 <p align="left">
-<a href="https://drive.google.com/file/d/1l9BBB0z4cv7kQWL4wN7iCuEu7lHtQUK1/view?usp=sharing" target="_blank"><img width="40" height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/resume.png"></a>&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1EhEdxdwzeaGXhzauhO6zK7fe89WrFQT4/view?usp=sharing" target="_blank"><img width="40" height="40" src="https://github.com/ni3choudhary/ni3choudhary/blob/main/Assets/resume.png"></a>&nbsp;&nbsp;
 </p>
 
 ## Fiverr Profile: 
